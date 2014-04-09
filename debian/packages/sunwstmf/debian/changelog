@@ -1,3 +1,10 @@
+sunwstmf (5.11.134-31-13107-849) nexenta; urgency=low
+
+  * Issue NEX-849: backport SUP-782 COMSTAR UNMAP support should limit number of LBAs per operation
+  * Issue NEX-847: backport SUP-765 Windows 2012 cluster fix (for ESW/Auxo)
+
+ -- Nexenta Systems <support@nexenta.com>  Tue, 8 Apr 2014 07:43:46 -0800
+
 sunwstmf (5.11.134-31-13106-848) nexenta; urgency=high
 
   * Issue SUP-848: backport SUP-772 COMSTAR task waiting pressure doesn't
