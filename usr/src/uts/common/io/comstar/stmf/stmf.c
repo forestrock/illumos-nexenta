@@ -8061,5 +8061,5 @@ volatile boolean_t stmf_pgr_aptpl_always = B_FALSE;
 boolean_t
 stmf_is_pgr_aptpl_always()
 {
-	return (stmf_pgr_aptpl_alway);
+	return (stmf_pgr_aptpl_always);
 }
